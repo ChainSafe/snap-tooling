@@ -1049,9 +1049,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"demo@workspace:packages/demo":
+"demo@workspace:packages/_template":
   version: 0.0.0-use.local
-  resolution: "demo@workspace:packages/demo"
+  resolution: "demo@workspace:packages/_template"
   dependencies:
     "@types/eslint": ^8
     "@types/node": 16
@@ -2551,9 +2551,9 @@ __metadata:
   linkType: hard
 
 "ses@npm:^0.17.0":
-  version: 0.17.0
-  resolution: "ses@npm:0.17.0"
-  checksum: 5533b37fcdfc2734a37cf2d5b0909b6775a990938dedb37b7d0e851d310c2e3a6d44bcb4b80731a91d9f07e40700d47f942c693a18ffe9d54e9d5e4d18e1141e
+  version: 0.17.1
+  resolution: "ses@npm:0.17.1"
+  checksum: be1ab1a49fb58544fd3c1742dcec8760a82ce927b451d7a9f233b5bfb80dbf7eea9838bd84e2e3f44e62667c83c0ed06164c318e31d7bd2386cd4b242708e9b5
   languageName: node
   linkType: hard
 
